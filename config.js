@@ -30,7 +30,10 @@ System.config({
     "bootstrap": "github:twbs/bootstrap@3.3.6",
     "core-js": "npm:core-js@2.1.1",
     "fetch": "github:github/fetch@0.10.1",
+    "firebase": "github:firebase/firebase-bower@2.4.1",
     "font-awesome": "npm:font-awesome@4.5.0",
+    "js-data": "github:js-data/js-data@2.9.0",
+    "js-data-firebase": "github:js-data/js-data-firebase@2.1.1",
     "text": "github:systemjs/plugin-text@0.0.3",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.3.0"
